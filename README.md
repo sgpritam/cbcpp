@@ -138,8 +138,6 @@ Please discuss it with us first by creating new issue.
 
 | [sgpritam](https://github.com/sgpritam)
 
-
-
 ## References :clipboard: :scroll:
 
 - Books :book: :books:
@@ -156,3 +154,8 @@ Please discuss it with us first by creating new issue.
     - [topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials)
     - [tutorialspoint](http://www.tutorialspoint.com)
     - [Wikipedia](https://en.wikipedia.org)
+
+## Sample algorithm :octocat: 
+ [disjoint_set_union.cpp](Algorithms/disjoint_set_union/disjoint_set_union.cpp)
+
+        READ instructions before making any pull request 💥 .
